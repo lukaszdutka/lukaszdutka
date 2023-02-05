@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## W internecie możecie mnie znaleźć pod pseudonimem Droga Programisty
+np. na YouTube: [Droga Programisty](https://youtube.com/@DrogaProgramisty)
 <!--
 **lukaszdutka/lukaszdutka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
